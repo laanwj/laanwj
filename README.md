@@ -1,5 +1,6 @@
 - libera (IRC): `laanwj`
 - fediverse: [@orionwl@x0f.org](https://x0f.org/@orionwl)
-- matrix: `@orionwl:x0f.org`
+- nostr: [npub1p23eukh0nxsqpfaakz6fj9vvj27y4gs0kevnrffdq4d4adkl7uuq7crnl6](https://njump.me/npub1p23eukh0nxsqpfaakz6fj9vvj27y4gs0kevnrffdq4d4adkl7uuq7crnl6)
+- matrix: [@orionwl:x0f.org](https://matrix.to/#/@orionwl:x0f.org)
 - PGP fingerprint: [`71A3 B167 3540 5025 D447  E8F2 7481 0B01 2346 C9A6`](https://github.com/laanwj.gpg)
 - website: https://laanwj.github.io
