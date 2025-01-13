@@ -1,3 +1,5 @@
+![ghost bird](x0f-instance-render.png)
+
 - libera (IRC): `laanwj`
 - fediverse: [@orionwl@x0f.org](https://x0f.org/@orionwl)
 - matrix: [@orionwl:x0f.org](https://matrix.to/#/@orionwl:x0f.org)
